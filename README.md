@@ -19,9 +19,19 @@ This project is a **Loan Analysis Dashboard** built to visualize key metrics rel
 ## Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/loan-analysis-dashboard.git
+   git clone https://github.com/AmanRai264/loan-analysis-dashboard.git
    ```
 2. Open the dashboard file in **Power BI / Tableau**.
 3. Load the dataset and refresh the visualizations.
 4. Explore insights and interact with different dashboard components.
+
+## Data Source
+
+The dataset used for this analysis is stored in `cleaned_data.xlsx` and includes:
+
+- Loan details (amount, tenure, purpose, etc.)
+- Borrower information (income, job status, credit score, home ownership, etc.)
+
+
+
 
