@@ -11,5 +11,17 @@ This project is a **Loan Analysis Dashboard** built to visualize key metrics rel
 - **Employment vs Loan Trends**: Highlights loan distributions based on employment history and loan IDs.
 - **Credit Score and Loan Amount Trends**: Analyzes the correlation between credit scores, income, and current loan amounts.
 
+## Technologies Used
+- **Power BI / Tableau** *(or specify the tool used for visualization)*
+- **Python / SQL** *(if data processing is involved)*
+- **Excel / CSV** *(for raw data input)*
 
+## Installation & Usage
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/loan-analysis-dashboard.git
+   ```
+2. Open the dashboard file in **Power BI / Tableau**.
+3. Load the dataset and refresh the visualizations.
+4. Explore insights and interact with different dashboard components.
 
