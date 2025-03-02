@@ -50,9 +50,7 @@ The dataset used for this analysis is stored in `cleaned_data.xlsx` and includes
 
 Contributions are welcome! Feel free to fork the repository, make changes, and submit a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
 
